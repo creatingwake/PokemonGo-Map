@@ -5,7 +5,6 @@
 *.sass-cache
 *.orig
 *.json
-config/*
 !config/config.ini.example
 static/dist/
 node_modules/
